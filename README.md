@@ -36,3 +36,62 @@ Java, Jsp, HTML, JavaScript, Oracle Database, Mybatis, Ajax, CSS, SpringBoot
 * 전체제품/인기제품/신제품/할인제품   <br>
 * 제품 검색   <br>
 * 공지사항/후기/질문과 답변 게시판 열람   <br>
+<br>
+   
+> ### **2. 회원가입**
+   
+![회원가입](https://user-images.githubusercontent.com/125838349/227253567-b1eb170a-ed2f-423c-9a85-8fbef5b3dd5f.PNG)
+   
+* 카카오 주소 API를 이용한 도로명 주소 검색 기능   <br>
+<br>
+   
+> ### **3. 로그인**
+   
+![로그인](https://user-images.githubusercontent.com/125838349/227253537-a9d48158-c6bf-43d3-b6b8-8dceb2154cb3.PNG)
+   
+* 카카오 로그인 API를 이용한 카카오 로그인 기능   <br>
+<br>
+
+> ### **4. 제품 상세**
+   
+![상세창_장바구니](https://user-images.githubusercontent.com/125838349/227253558-bc521252-b4fa-449b-8c50-61178ecdc084.PNG)
+   
+* 수량 선택   <br>
+* 장바구니에 담기 기능 <br>
+* 상세정보/후기작성/질문과 답변 가능
+<br>
+
+> ### **5. 장바구니**
+   
+![장바구니](https://user-images.githubusercontent.com/125838349/227253565-497e0d2a-7ba7-4dfb-951d-56ea32f2d2e5.PNG)
+   
+* 장바구니에서 수량 선택 가능  <br>
+* 선택 체크 해제시 즉각 가격 변동 <br>
+* 선택 제품 삭제 가능 <br>
+* 제품 주문
+<br>
+
+> ### **6. 마이페이지**
+   
+![마이페이지](https://user-images.githubusercontent.com/125838349/227253545-9199657b-1079-4c2a-98f1-4beef1521c1e.PNG)
+   
+* 주문한 제품 확인 가능   <br>
+* 배송 조회 API를 이용한 제품 배송 상태 확인 기능 <br>
+* 본인 정보 확인/변경
+<br>
+
+> ### **7. 관리자메뉴**
+   
+![관리자메뉴](https://user-images.githubusercontent.com/125838349/227253511-c47446f1-1256-4ee2-be3d-02188493136d.PNG)
+   
+* 상품관리/주문관리/회원관리 기능   <br>
+* 공지사항 작성
+<br>
+
+> ### **3. 후기 작성**
+   
+![후기작성](https://user-images.githubusercontent.com/125838349/227253570-61da44d3-f7ee-4429-9251-33c238bb5a0b.PNG)
+   
+* 별점 선택 가능   <br>
+<br>
+   
