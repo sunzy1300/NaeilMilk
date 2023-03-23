@@ -22,10 +22,14 @@
 Java, Jsp, HTML, JavaScript, Oracle Database, Mybatis, Ajax, CSS, SpringBoot
 <br>
 <br>
+> ## 🥛 형상관리   
+Git, Github를 이용해 코드 수정사항 공유   
+Notion을 이용해 이미지, 파일 등을 공유하며 협업
 ***
 <br>
    
-# 🖥기능 소개
+# 🖥주요 기능 소개   <br>
+<br>   
    
 > ### **1. 메인페이지**
 <br>
@@ -88,10 +92,13 @@ Java, Jsp, HTML, JavaScript, Oracle Database, Mybatis, Ajax, CSS, SpringBoot
 * 공지사항 작성
 <br>
 
-> ### **3. 후기 작성**
+> ### **8. 후기 작성**
    
 ![후기작성](https://user-images.githubusercontent.com/125838349/227253570-61da44d3-f7ee-4429-9251-33c238bb5a0b.PNG)
    
 * 별점 선택 가능   <br>
 <br>
+
    
+   
+# ✏ 프로젝트를 
