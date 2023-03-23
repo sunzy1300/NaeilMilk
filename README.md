@@ -24,4 +24,15 @@ Java, Jsp, HTML, JavaScript, Oracle Database, Mybatis, Ajax, CSS, SpringBoot
 <br>
 ***
 <br>
+   
+# 🖥기능 소개
+   
+> ### **1. 메인페이지**
 <br>
+<img src="https://user-images.githubusercontent.com/125838349/227219033-61511c6b-0a79-4d41-9818-14803cb8f413.png">
+   
+* 로그인   <br>
+* 회원가입   <br>
+* 전체제품/인기제품/신제품/할인제품   <br>
+* 제품 검색   <br>
+* 공지사항/후기/질문과 답변 게시판 열람   <br>
